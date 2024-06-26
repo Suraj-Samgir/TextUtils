@@ -35,4 +35,13 @@ This repository contains a text utility application built with React JS. The app
 2. Install the dependencies :
    <br>npm install
 
+## Usage
 
+1. Start the development Server :
+<br> npm start
+
+2. Open your browser and navigate to `http://localhost:3000` to use the application.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes or enhancements.
