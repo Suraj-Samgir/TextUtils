@@ -33,5 +33,6 @@ This repository contains a text utility application built with React JS. The app
    cd text-utility-app
 
 2. Install the dependencies :
-   npm install
+   <br>npm install
+
 
